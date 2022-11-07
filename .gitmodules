@@ -1,3 +1,3 @@
-[submodule "doc/gaming/dnd5e-quickref"]
+[submodule "docs/gaming/dnd5e-quickref"]
 	path = docs/gaming/dnd5e-quickref
 	url = git@github.com:dkittle/dnd5e-quickref.git
